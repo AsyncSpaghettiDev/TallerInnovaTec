@@ -1,0 +1,29 @@
+.feed-page h3{
+    text-align: center;
+    color: #333;
+}
+
+.feed-page .padre{
+    display: flex;
+}
+
+.feed-page .lista{
+    flex: 3;
+    background: rgb(236, 243, 245);
+}
+
+.feed-page .captura{
+    flex: 2;
+}
+
+.feed-page .control{
+    display: 100%;
+    margin-bottom: 10px;
+}
+
+.feed-page .label{
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    color: #686869;
+}

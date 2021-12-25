@@ -1,0 +1,28 @@
+.task{
+    position: relative;
+    padding: 30px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background: #fefefd;
+    margin-bottom: 15px;
+}
+
+.task h4{
+    font-size: 22px;
+    color: #333;
+    text-align: center;
+}
+
+.task h6{
+    font-size: 18px;
+    color: rgb(13, 70, 107);
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.task .btn {
+    position: absolute;
+    bottom: 25px;
+    right: 30px;
+}
